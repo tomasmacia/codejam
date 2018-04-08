@@ -1,0 +1,738 @@
+Rows: []
+Columns: []
+Intento nro 1
+Rows: [0]
+Columns: [2]
+Intento nro 2
+Rows: [0, 2]
+Columns: [0, 2]
+Intento nro 3
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 4
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 5
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 6
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 7
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 8
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 9
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 10
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 11
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 12
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 13
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 14
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 15
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 16
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 17
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 18
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 19
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 20
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 21
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 22
+Rows: [0, 1, 2, 3]
+Columns: [0, 1, 2]
+Intento nro 23
+Rows: [0, 1, 2, 3, 5]
+Columns: [0, 1, 2]
+Intento nro 24
+Rows: [0, 1, 2, 3, 5]
+Columns: [0, 1, 2]
+Intento nro 25
+Rows: [0, 1, 2, 3, 5]
+Columns: [0, 1, 2]
+Intento nro 26
+Rows: [0, 1, 2, 3, 5]
+Columns: [0, 1, 2]
+Intento nro 27
+Rows: [0, 1, 2, 3, 5]
+Columns: [0, 1, 2]
+Intento nro 28
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 29
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 30
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 31
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 32
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 33
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 34
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 35
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 36
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 37
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 38
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 39
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 40
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 41
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 42
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 43
+Rows: [0, 1, 2, 3, 4, 5, 7]
+Columns: [0, 1, 2]
+Intento nro 44
+Rows: [0, 1, 2, 3, 4, 5, 7]
+Columns: [0, 1, 2]
+Intento nro 45
+Rows: [0, 1, 2, 3, 4, 5, 6, 7]
+Columns: [0, 1, 2]
+Intento nro 46
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 47
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 48
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 49
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 50
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 51
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 52
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 53
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 54
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 55
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 56
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 57
+Rows: []
+Columns: []
+Intento nro 1
+Rows: [2]
+Columns: [2]
+Intento nro 2
+Rows: [0, 2]
+Columns: [0, 2]
+Intento nro 3
+Rows: [0, 2]
+Columns: [0, 2]
+Intento nro 4
+Rows: [0, 2]
+Columns: [0, 2]
+Intento nro 5
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 6
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 7
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 8
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 9
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 10
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 11
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 12
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 13
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 14
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 15
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 16
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 17
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 18
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 19
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 20
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 21
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 22
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 23
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 24
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 25
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 26
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 27
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 28
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 29
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 30
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 31
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 32
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 33
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 34
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 35
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 36
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 37
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 38
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 39
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 40
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 41
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 42
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 43
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 44
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 45
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 46
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 47
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 48
+Rows: [0, 1, 2, 5]
+Columns: [0, 1, 2]
+Intento nro 49
+Rows: [0, 1, 2, 3, 5]
+Columns: [0, 1, 2]
+Intento nro 50
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 51
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 52
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 53
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 54
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 55
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 56
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 57
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 58
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 59
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 60
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 61
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 62
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 63
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 64
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 65
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 66
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 67
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 68
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 69
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 70
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 71
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 72
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 73
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 74
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 75
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 76
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 77
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 78
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 79
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 80
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 81
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 82
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 83
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 84
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 85
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 86
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 87
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 88
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 89
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 90
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 91
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 92
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 93
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 94
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 95
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 96
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 97
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 98
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 99
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 100
+Rows: [0, 1, 2, 3, 4, 5, 7]
+Columns: [0, 1, 2]
+Intento nro 101
+Rows: [0, 1, 2, 3, 4, 5, 7]
+Columns: [0, 1, 2]
+Intento nro 102
+Rows: [0, 1, 2, 3, 4, 5, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 103
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 104
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 105
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 106
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 107
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 108
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 109
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 110
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 111
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 112
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 113
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 114
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 115
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 116
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 117
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 118
+Rows: []
+Columns: []
+Intento nro 1
+Rows: [0]
+Columns: [1]
+Intento nro 2
+Rows: [0, 1]
+Columns: [1]
+Intento nro 3
+Rows: [0, 1]
+Columns: [0, 1]
+Intento nro 4
+Rows: [0, 1]
+Columns: [0, 1, 2]
+Intento nro 5
+Rows: [0, 1]
+Columns: [0, 1, 2]
+Intento nro 6
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 7
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 8
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 9
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 10
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 11
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 12
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 13
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 14
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 15
+Rows: [0, 1, 2]
+Columns: [0, 1, 2]
+Intento nro 16
+Rows: [0, 1, 2, 5]
+Columns: [0, 1, 2]
+Intento nro 17
+Rows: [0, 1, 2, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 18
+Rows: [0, 1, 2, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 19
+Rows: [0, 1, 2, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 20
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 21
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 22
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 23
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 24
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 25
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 26
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 27
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 28
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 29
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 30
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 31
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 32
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 33
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 34
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 35
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 36
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 37
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 38
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 39
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 40
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 41
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 42
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 43
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 44
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 45
+Rows: [0, 1, 2, 3, 4, 5]
+Columns: [0, 1, 2]
+Intento nro 46
+Rows: [0, 1, 2, 3, 4, 5, 7]
+Columns: [0, 1, 2]
+Intento nro 47
+Rows: [0, 1, 2, 3, 4, 5, 6, 7]
+Columns: [0, 1, 2]
+Intento nro 48
+Rows: [0, 1, 2, 3, 4, 5, 6, 7]
+Columns: [0, 1, 2]
+Intento nro 49
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 50
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 51
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 52
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 53
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 54
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 55
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 56
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 57
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 58
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 59
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 60
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 61
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 62
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 63
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 64
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 65
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 66
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 67
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 68
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 69
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 70
+Rows: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Columns: [0, 1, 2]
+Intento nro 71
